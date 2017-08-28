@@ -1,0 +1,23 @@
+.my-section { 
+	min-height : 500 px
+}
+
+.bg-myphoto-dark {
+	background-color: black;
+	color : white;
+}
+
+.bg-myphoto-light {
+	background-color:white;
+	color : black;
+}
+
+.jumbotron-welcome {
+	background-image: url('C:/reasearch/MyProject/MyPhotoCanvas/images/welcomescreen.jpg');
+	background-size: cover;
+}
+
+.bg-myphoto-welcome{
+	background-image: url('C:/reasearch/MyProject/MyPhotoCanvas/images/welcomescreen.jpg');
+	background-size: cover;
+}
